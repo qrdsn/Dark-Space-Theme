@@ -5,4 +5,7 @@
 ![preview](https://addons.mozilla.org/user-media/version-previews/full/3827/3827732.svg)
 
 
-Simple dark theme with dynamic background. Based on video 'Animation of Stars' released by Vimeo under Creative Commons (CC0) license. 
+Simple dark theme with dynamic background. Based on video 'Animation of Stars' released by Vimeo under Creative Commons (CC0) license.
+
+
+Changed tab_loading and tab_line to "#9400ff".
